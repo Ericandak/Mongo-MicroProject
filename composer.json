@@ -1,0 +1,17 @@
+{
+    "name": "erick/s8",
+    "autoload": {
+        "psr-4": {
+            "Erick\\S8\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Erickjames292",
+            "email": "erickjames2025@mca.ajce.in"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.17"
+    }
+}
